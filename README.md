@@ -5,4 +5,4 @@ They are:
 -Rolling dice app(first_app). This app does not have much of the functionality, but was the starting point of my flutter development road 
 -Basic flutter quiz(adv_basics). This app was a little bit more comoplicated than the previous one since during the development of this app I was studying switching between screens
 -Expense tracker app(expense_tracker). This app is not fully developed, but still does it main functionality at its minimum.
-NOTICE!!! The idea of this project is not mine, and these apps were developed from watching course videos
+NOTICE!!! The ideas for these projects are not mine, and these apps were developed from watching course videos
